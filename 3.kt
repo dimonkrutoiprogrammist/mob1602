@@ -3,7 +3,8 @@ fun printPersonInfo(name: String, age: Int = 18, city: String = "Неизвес�
 }
 
 fun main(){
-    printPersonInfo("Максим", 19, "Чита")
-    printPersonInfo("Максим", 19)
-    printPersonInfo("Максим")
+    printPersonInfo("Димон", 17, "Чита")
+    printPersonInfo("Димон", 17)
+    printPersonInfo("Димон")
+
 }
